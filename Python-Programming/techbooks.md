@@ -28,3 +28,9 @@ This online tutorial is a Python version of Edgecase’s popular Ruby Koans. It�
 For those accustomed to languages and figuring out puzzles on their own, this
 can be a fun, attractive option. For those new to Python and programming, hav‐ing an additional resource or reference will be helpful.
 https://github.com/gregmalcolm/python_koans
+
+## Misc
+**The Book of Shaders**
+https://thebookofshaders.com/
+**Web GL Fundamentals**
+https://webglfundamentals.org/

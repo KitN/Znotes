@@ -14,6 +14,7 @@
     - tag by I.D.
     - open soundboard 
 - Pyglet Kaleidoscope
+- GLSL (Shadertoy) Kaleidoscope
 
 ## Inspo
 Jer Thorp. What an artist/programmer!
